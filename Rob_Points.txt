@@ -13,7 +13,7 @@ Redeem points:
 250 points: I will invert a 4x4 matrix over the integers by hand
 
 Enaka: 1,000,000,000,000
-Bruce: 361
+Bruce: 351
 Mayah: 204
 Ana: 1,000,005
 Gallantry: 100
@@ -22,6 +22,7 @@ Peace: 1
 Kaotic: 189,215,990
 
 Changelog:
+2023-02-10: Bruce deducted 10 points for being an NFT bro
 2022-12-07: Enaka awarded 1,000,000,000,000 points for testing the void totem
 2022-12-07: Mayah awarded 10 points for completing the beans song
 2022-12-07: Enaka given 200 points for saying that thing about triangles on oranges is true
