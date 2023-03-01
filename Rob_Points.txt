@@ -13,7 +13,7 @@ Redeem points:
 250 points: I will invert a 4x4 matrix over the integers by hand
 
 Enaka: Larger than any natural number M
-Bruce: 351
+Bruce: 0
 Mayah: 199
 Ana: 1,000,005
 Gallantry: 100
@@ -22,6 +22,7 @@ Peace: 6
 Kaotic: 189,215,990
 
 Changelog:
+2023-02-28: Bruce's total reduced to 0 upon his own request
 2023-02-28: Mayah deducted 5 Rob points for R1 spamming in sekiro
 2023-02-20: Peace given 5 Rob points for calling Elon Musk cringe
 2023-02-20: Enaka given arbitrarily large amount of Rob points for me dying in Sekiro
