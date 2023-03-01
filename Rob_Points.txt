@@ -14,7 +14,7 @@ Redeem points:
 
 Enaka: Larger than any natural number M
 Bruce: 351
-Mayah: 204
+Mayah: 199
 Ana: 1,000,005
 Gallantry: 100
 Rob: -100
@@ -22,6 +22,7 @@ Peace: 6
 Kaotic: 189,215,990
 
 Changelog:
+2023-02-28: Mayah deducted 5 Rob points for R1 spamming in sekiro
 2023-02-20: Peace given 5 Rob points for calling Elon Musk cringe
 2023-02-20: Enaka given arbitrarily large amount of Rob points for me dying in Sekiro
 2023-02-10: Bruce deducted 10 points for being an NFT bro
