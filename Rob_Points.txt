@@ -19,8 +19,10 @@ Gallantry: 100
 Rob: -100
 Peace: 6
 Kaotic: 189,215,990
+Karyn.k: 0
 
 Changelog:
+2023-03-09: Karyn.k added to ledger
 2023-02-28: 100,000 Rob Points straight up printed and given to Mayah
 2023-02-28: Bruce's total reduced to 0 upon his own request
 2023-02-28: Mayah deducted 5 Rob points for R1 spamming in sekiro
