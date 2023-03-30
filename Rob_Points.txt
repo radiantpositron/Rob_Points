@@ -11,7 +11,7 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: Larger than any natural number M
+Enaka: 1,000,000,000,000
 Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
@@ -23,6 +23,7 @@ Karyn.k:
 Joe: 69420
 
 Changelog:
+2023-03-29: Enaka's total reduced to 1,000,000,000,000
 2023-03-29: Joe added to ledger and awarded 69420 points because he said fishing
 2022-03-25: 0.1 Rob points awarded to Peace
 2023-03-09: Karyn.k added to ledger
