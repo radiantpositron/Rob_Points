@@ -19,9 +19,11 @@ Gallantry: 100
 Rob: -100
 Peace: 6.1
 Kaotic: 189,215,990
-Karyn.k: 0
+Karyn.k: 
+Joe: 69420
 
 Changelog:
+2023-03-29: Joe added to ledger and awarded 69420 points because he said fishing
 2022-03-25: 0.1 Rob points awarded to Peace
 2023-03-09: Karyn.k added to ledger
 2023-02-28: 100,000 Rob Points straight up printed and given to Mayah
