@@ -18,11 +18,12 @@ Ana: 1,000,005
 Gallantry: 100
 Rob: -100
 Peace: 6.1
-Kaotic: 189,215,990
+Kaotic: 189,216,040
 Karyn.k: 
 Joe: 69350
 
 Changelog:
+2023-04-01: Cole given 50 points
 2023-03-29: Joe deducted 50 points for shit-talking Enaka
 2029-03-29: Joe redeemed 5 mintues of punk rock guitar playing. Deducted 20 points.
 2023-03-29: Enaka's total reduced to 1,000,000,000,000
