@@ -1,17 +1,17 @@
 Redeem points:
-1 point per minute: I will point my camera at my keyboard and improvise
-5 points: I will say any single sentence of 50 words or fewer into the mic with it all close to my mouth and stuff
-5 points: One chamber of the inbounds no SLA portal speedrun
-10 points: I will tell you that you are amazing and awesome and I am proud of you
-10 points: I will set a timer for 60 seconds and draw something based on a three word prompt given by you
-20 points: I will play the guitar for you in any style you desire for 5 minutes (results may vary)
-40 points: I will use my morning voice + Colonel Sanders Voice to record for you any soundbite you like
-50 points: You choose the next Rob's choice movie
-60 points: Feet pics
-70 points: Thigh pics
-80 points: 5 free "truths" in a row, a la truth or dare
-100 points: 1on1 movie watch with Rob complete w/ symbolism guide
-250 points: I will invert a 4x4 matrix over the integers by hand
+10 point per minute: I will point my camera at my keyboard and improvise
+50 points: I will say any single sentence of 50 words or fewer into the mic with it all close to my mouth and stuff
+50 points: One chamber of the inbounds no SLA portal speedrun
+100 points: I will tell you that you are amazing and awesome and I am proud of you
+100 points: I will set a timer for 60 seconds and draw something based on a three word prompt given by you
+200 points: I will play the guitar for you in any style you desire for 5 minutes (results may vary)
+400 points: I will use my morning voice + Colonel Sanders Voice to record for you any soundbite you like
+500 points: You choose the next Rob's choice movie
+600 points: Feet pics
+700 points: Thigh pics
+800 points: 5 free "truths" in a row, a la truth or dare
+1000 points: 1on1 movie watch with Rob complete w/ symbolism guide
+2500 points: I will invert a 4x4 matrix over the integers by hand
 
 Enaka: 25
 Bruce: 0
@@ -25,6 +25,7 @@ Karyn.k: 0
 Joe: 0
 
 Changelog:
+2023-04-02: Inflation
 2023-04-02: Enaka awarded 25 rob points for reading the part of my video essay
 2023-04-01: Everyone reduced to 0 as an april fools prank get pranked bozos i know ur reading this
 2023-04-01: Cole given 50 points
