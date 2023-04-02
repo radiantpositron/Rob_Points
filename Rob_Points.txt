@@ -13,7 +13,7 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 0
+Enaka: 25
 Bruce: 0
 Mayah: 0
 Ana: 0
@@ -25,6 +25,7 @@ Karyn.k: 0
 Joe: 0
 
 Changelog:
+2023-04-02: Enaka awarded 25 rob points for reading the part of my video essay
 2023-04-01: Everyone reduced to 0 as an april fools prank get pranked bozos i know ur reading this
 2023-04-01: Cole given 50 points
 2023-03-29: Joe deducted 50 points for shit-talking Enaka
