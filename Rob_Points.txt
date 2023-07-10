@@ -13,12 +13,12 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 999,999,997,025
+Enaka: 999,999,995,025
 Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
 Gallantry: 100
-Rob: -100
+Rob: 4,900
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
