@@ -13,7 +13,7 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 1,000,000,000,025
+Enaka: 999,999,997,025
 Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
@@ -25,6 +25,7 @@ Karyn.k: 0
 Joe: 69350
 
 Changelog:
+2023-07-09: Enaka donates 5K after tax to Rob;
 2023-04-06: Prank over + deflation
 2023-04-02: Inflation
 2023-04-02: Enaka awarded 25 rob points for reading the part of my video essay
