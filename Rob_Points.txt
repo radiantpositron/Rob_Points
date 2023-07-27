@@ -18,13 +18,14 @@ Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
 Gallantry: 100
-Rob: 5,535
+Rob: 2,535
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
-Joe: 67675
+Joe: 70675
 
 Changelog:
+2023-07-26: As a result of poker night, Rob pays 3,000 points to Joe.
 2023-07-09: As a result of poker night, Joe pays 1040 points to enaka and 635 points to rob.
 2023-07-09: Enaka donates 5K after tax to Rob;
 2023-04-06: Prank over + deflation
