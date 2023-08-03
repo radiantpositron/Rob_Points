@@ -13,18 +13,19 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 999,999,996,065
+Enaka: 999,999,996,595
 Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
 Gallantry: 100
-Rob: 2,535
+Rob: 2,005
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
 Joe: 70675
 
 Changelog:
+2023-08-03: As a result of poker night, Rob pays Enaka 530 Rob Points
 2023-07-26: As a result of poker night, Rob pays 3,000 points to Joe.
 2023-07-09: As a result of poker night, Joe pays 1040 points to enaka and 635 points to rob.
 2023-07-09: Enaka donates 5K after tax to Rob;
