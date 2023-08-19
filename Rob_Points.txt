@@ -13,7 +13,7 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 999,998,995,595
+Enaka: 999,996,996,595
 Bruce: 0
 Mayah: 100,199
 Ana: 1,000,005
@@ -22,10 +22,11 @@ Rob: 1,002,005
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
-Joe: 70,675
+Joe: 1,070,675
 SodaSaint: 1,000,000
 
 Changelog:
+2023-08-19: Enaka gives Joe 1,000,000 points.
 2023-08-19: Enaka gives Soda 1,000,000 points. Also soda added to ledger.
 2023-08-19: Enaka gives Rob a small donation of a million points
 2023-08-03: As a result of poker night, Rob pays Enaka 530 Rob Points
