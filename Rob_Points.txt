@@ -13,12 +13,12 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 999,996,979,070
+Enaka: 999,996,919,070
 Bruce: 0
 Mayah: 100,799
 Ana: 1,000,005
 Gallantry: 1,005,450
-Rob: 979,630
+Rob: 1,039,630
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
@@ -26,6 +26,7 @@ Joe: 1,105,325
 SodaSaint: 999,400
 
 Changelog:
+2023-09-09: Joe unwisely takes a bet in RL against Rob. Enaka, who staked Joe, loses 60k Rob points and Rob gains 60k.
 2023-09-09: As a result of poker night: Rob -20,000, Enaka -20,000, Joe +40,000
 2023-09-02: As a result of poker night: Rob -3100, Gallantry +5550, Joe -5950, Enaka +3500
 2023-08-26: As a result of poker night: rob-400, misu+600, enaka-100, Gallantry-200, Huy-500, Joe+600
