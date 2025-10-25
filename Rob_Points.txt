@@ -13,20 +13,22 @@ Redeem points:
 100 points: 1on1 movie watch with Rob complete w/ symbolism guide
 250 points: I will invert a 4x4 matrix over the integers by hand
 
-Enaka: 999,995,989,320
+Enaka: 999,995,986,820
 Bruce: 0
 Mayah: 100,799
 Ana: 1,000,005
-Gallantry: 999,600
+Gallantry: 998,800
 Rob: 960,730
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
-Joe: 1,067,125
-SodaSaint: 1,008,750
+Joe: 1,059,425
+SodaSaint (Huy-fam): 1,010,650
 ET: 1,000,000
+Gummy 7150
 
 Changelog:
+2025-10-25: As a result of poker night: Joe -7700, Rob +1950, Enaka -2500, Huy +1900, Gallantry -800, Gummy +7150
 2024-07-06: Enaka donates 1,000,000 Rob points to ET.
 2024-05-27: As a result of poker night: Joe +24,250, Enaka -4,150, Rob -20,000.
 2023-12-01: As a result of poker night: Joe -66,700, Enaka +47,700, SodaSaint +17,450 Rob -42,900 Gallantry -44,450
@@ -79,4 +81,5 @@ Changelog:
 2022-11-07: Kaotic given 1 quintillion points
 2022-09-16: Peace added, point total changed to -1.
 2022-09-16: Peace given 2 pity points because he's malding.
+
 
