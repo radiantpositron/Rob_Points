@@ -1,18 +1,3 @@
-Redeem points:
-1 point per minute: I will point my camera at my keyboard and improvise
-5 points: I will say any single sentence of 50 words or fewer into the mic with it all close to my mouth and stuff
-5 points: One chamber of the inbounds no SLA portal speedrun
-10 points: I will tell you that you are amazing and awesome and I am proud of you
-10 points: I will set a timer for 60 seconds and draw something based on a three word prompt given by you
-20 points: I will play the guitar for you in any style you desire for 5 minutes (results may vary)
-40 points: I will use my morning voice + Colonel Sanders Voice to record for you any soundbite you like
-50 points: You choose the next Rob's choice movie
-60 points: Feet pics
-70 points: Thigh pics
-80 points: 5 free "truths" in a row, a la truth or dare
-100 points: 1on1 movie watch with Rob complete w/ symbolism guide
-250 points: I will invert a 4x4 matrix over the integers by hand
-
 Enaka: 999,995,986,820
 Bruce: 0
 Mayah: 100,799
@@ -81,5 +66,6 @@ Changelog:
 2022-11-07: Kaotic given 1 quintillion points
 2022-09-16: Peace added, point total changed to -1.
 2022-09-16: Peace given 2 pity points because he's malding.
+
 
 
