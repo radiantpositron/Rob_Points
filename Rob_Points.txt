@@ -1,18 +1,19 @@
-Enaka: 999,995,986,820
+Enaka: 999,995,926,820
 Bruce: 0
 Mayah: 100,799
 Ana: 1,000,005
-Gallantry: 998,800
-Rob: 960,730
+Gallantry: 986,250
+Rob: 1,019,180
 Peace: 6.1
 Kaotic: 189,216,040
 Karyn.k: 0
-Joe: 1,059,425
-SodaSaint (Huy-fam): 1,010,650
+Joe: 1,073,475
+SodaSaint (Huy-fam): 1,010,700
 ET: 1,000,000
 Gummy 7150
 
 Changelog:
+2025-11-04: As a result of poker night: Huy +50, Joe +14050, Rob +58450, Gallantry -12550, Enaka -60,000
 2025-10-25: As a result of poker night: Joe -7700, Rob +1950, Enaka -2500, Huy +1900, Gallantry -800, Gummy +7150
 2024-07-06: Enaka donates 1,000,000 Rob points to ET.
 2024-05-27: As a result of poker night: Joe +24,250, Enaka -4,150, Rob -20,000.
@@ -66,6 +67,7 @@ Changelog:
 2022-11-07: Kaotic given 1 quintillion points
 2022-09-16: Peace added, point total changed to -1.
 2022-09-16: Peace given 2 pity points because he's malding.
+
 
 
 
